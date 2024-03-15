@@ -3,3 +3,5 @@ csvs/
 output.csv
 test.ipynb
 write_to_csv.py
+.DS_Store
+.idea/
